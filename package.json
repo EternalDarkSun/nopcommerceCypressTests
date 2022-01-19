@@ -1,0 +1,15 @@
+{
+  "name": "nopcommerce",
+  "version": "1.0.0",
+  "description": "Basic cypress tests as an example for testing out e-commerce platform.",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open", 
+    "cy:run": "cypress run --browser chrome"
+  },
+  "author": "Darko Sunajko",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
